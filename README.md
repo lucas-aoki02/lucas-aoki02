@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @lucas-aoki02
+- 👋 Hi, I’m Lucas Aoki
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning Python and Power BI
 - 📊 I'm currently studying tô work with data science 
 
-- 👋 Olá, meu nome é @lucas-aoki02
+- 👋 Olá, meu nome é Lucas Aoki
 - 👀 Estou interessado em ciência de dados e machine learning
 - 🌱 Atualmente estou aprendendo Python e Power BI
 - 📊 Atualmente estou em busca de trabalhar com data science 
